@@ -139,7 +139,7 @@ var questions = [
             "Vixen",
             "Clarice",
             "Cupid",
-            "Cupid"
+            "Dancer"
         ]
     },
     {
